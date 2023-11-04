@@ -1,2 +1,2 @@
-# githus-aws-project
+# github-aws-project
 final-cloud-engineering-project
